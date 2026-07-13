@@ -84,6 +84,7 @@
 | [1539-kth-missing-positive-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/krishagrawal07/leetcode-solns/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/krishagrawal07/leetcode-solns/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 | [1314-matrix-block-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/krishagrawal07/leetcode-solns/tree/master/1672-richest-customer-wealth) |
 ## Recursion
 |  |
 | ------- |

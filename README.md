@@ -41,6 +41,7 @@
 | [0169-majority-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/krishagrawal07/leetcode-solns/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0169-majority-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/krishagrawal07/leetcode-solns/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/krishagrawal07/leetcode-solns/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0075-sort-colors](https://github.com/krishagrawal07/leetcode-solns/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/krishagrawal07/leetcode-solns/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |

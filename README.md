@@ -47,6 +47,7 @@
 | [0239-sliding-window-maximum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/krishagrawal07/leetcode-solns/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishagrawal07/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/krishagrawal07/leetcode-solns/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -51,7 +51,6 @@
 | [0287-find-the-duplicate-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishagrawal07/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
-| [0410-split-array-largest-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +89,7 @@
 | [0205-isomorphic-strings](https://github.com/krishagrawal07/leetcode-solns/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/krishagrawal07/leetcode-solns/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/krishagrawal07/leetcode-solns/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,7 +134,6 @@
 | [0118-pascals-triangle](https://github.com/krishagrawal07/leetcode-solns/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishagrawal07/leetcode-solns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
-| [0410-split-array-largest-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -149,6 +148,7 @@
 | [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/krishagrawal07/leetcode-solns/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/krishagrawal07/leetcode-solns/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/krishagrawal07/leetcode-solns/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
 | ------- |
@@ -156,7 +156,6 @@
 | [0055-jump-game](https://github.com/krishagrawal07/leetcode-solns/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0324-wiggle-sort-ii) |
-| [0410-split-array-largest-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0410-split-array-largest-sum) |
 ## Trie
 |  |
 | ------- |
@@ -210,7 +209,6 @@
 | [0287-find-the-duplicate-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/krishagrawal07/leetcode-solns/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/krishagrawal07/leetcode-solns/tree/master/0374-guess-number-higher-or-lower) |
-| [0410-split-array-largest-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -241,6 +239,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/krishagrawal07/leetcode-solns/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -258,7 +257,6 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/krishagrawal07/leetcode-solns/tree/master/0238-product-of-array-except-self) |
-| [0410-split-array-largest-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0410-split-array-largest-sum) |
 ## Queue
 |  |
 | ------- |

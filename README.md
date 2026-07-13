@@ -55,7 +55,6 @@
 | [0493-reverse-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/krishagrawal07/leetcode-solns/tree/master/0498-diagonal-traverse) |
-| [0503-next-greater-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +147,7 @@
 | [0118-pascals-triangle](https://github.com/krishagrawal07/leetcode-solns/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishagrawal07/leetcode-solns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +163,7 @@
 | [0319-bulb-switcher](https://github.com/krishagrawal07/leetcode-solns/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/krishagrawal07/leetcode-solns/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/krishagrawal07/leetcode-solns/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -206,7 +207,6 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/krishagrawal07/leetcode-solns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/0496-next-greater-element-i) |
-| [0503-next-greater-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,7 +232,6 @@
 | [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishagrawal07/leetcode-solns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/0496-next-greater-element-i) |
-| [0503-next-greater-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0503-next-greater-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -247,6 +246,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/krishagrawal07/leetcode-solns/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
+| [0509-fibonacci-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -325,4 +325,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/0493-reverse-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

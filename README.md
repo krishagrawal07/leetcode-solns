@@ -146,6 +146,7 @@
 | [0202-happy-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/krishagrawal07/leetcode-solns/tree/master/0319-bulb-switcher) |
+| [0367-valid-perfect-square](https://github.com/krishagrawal07/leetcode-solns/tree/master/0367-valid-perfect-square) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/krishagrawal07/leetcode-solns/tree/master/0367-valid-perfect-square) |
 ## Monotonic Stack
 |  |
 | ------- |

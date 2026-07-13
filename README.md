@@ -140,6 +140,7 @@
 | [0189-rotate-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/krishagrawal07/leetcode-solns/tree/master/0319-bulb-switcher) |
 ## Greedy
 |  |
 | ------- |
@@ -251,4 +252,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0239-sliding-window-maximum) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/krishagrawal07/leetcode-solns/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

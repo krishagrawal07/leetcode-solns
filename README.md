@@ -80,6 +80,7 @@
 | [1470-shuffle-the-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishagrawal07/leetcode-solns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [0412-fizz-buzz](https://github.com/krishagrawal07/leetcode-solns/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0523-continuous-subarray-sum) |
+| [1512-number-of-good-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -354,6 +357,7 @@
 | [0229-majority-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishagrawal07/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
+| [1512-number-of-good-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |

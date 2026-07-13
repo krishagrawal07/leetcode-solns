@@ -16,6 +16,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishagrawal07/leetcode-solns/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/krishagrawal07/leetcode-solns/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishagrawal07/leetcode-solns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/krishagrawal07/leetcode-solns/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishagrawal07/leetcode-solns/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/krishagrawal07/leetcode-solns/tree/master/0041-first-missing-positive) |
 ## String
 |  |
 | ------- |

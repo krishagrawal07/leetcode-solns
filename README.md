@@ -115,6 +115,7 @@
 | [0647-palindromic-substrings](https://github.com/krishagrawal07/leetcode-solns/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/krishagrawal07/leetcode-solns/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/krishagrawal07/leetcode-solns/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/krishagrawal07/leetcode-solns/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/krishagrawal07/leetcode-solns/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -291,6 +294,7 @@
 | [0054-spiral-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/krishagrawal07/leetcode-solns/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/krishagrawal07/leetcode-solns/tree/master/0498-diagonal-traverse) |
+| [0844-backspace-string-compare](https://github.com/krishagrawal07/leetcode-solns/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |

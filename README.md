@@ -160,6 +160,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krishagrawal07/leetcode-solns/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/krishagrawal07/leetcode-solns/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/krishagrawal07/leetcode-solns/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [0986-interval-list-intersections](https://github.com/krishagrawal07/leetcode-solns/tree/master/0986-interval-list-intersections) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishagrawal07/leetcode-solns/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/krishagrawal07/leetcode-solns/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/1903-largest-odd-number-in-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/krishagrawal07/leetcode-solns/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Trie
 |  |
 | ------- |

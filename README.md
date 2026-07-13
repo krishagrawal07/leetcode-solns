@@ -51,6 +51,7 @@
 | [0287-find-the-duplicate-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishagrawal07/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0118-pascals-triangle](https://github.com/krishagrawal07/leetcode-solns/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishagrawal07/leetcode-solns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [0055-jump-game](https://github.com/krishagrawal07/leetcode-solns/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0410-split-array-largest-sum) |
 ## Trie
 |  |
 | ------- |
@@ -207,6 +210,7 @@
 | [0287-find-the-duplicate-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/krishagrawal07/leetcode-solns/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/krishagrawal07/leetcode-solns/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -254,6 +258,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/krishagrawal07/leetcode-solns/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0410-split-array-largest-sum) |
 ## Queue
 |  |
 | ------- |

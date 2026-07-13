@@ -67,6 +67,7 @@
 | [0875-koko-eating-bananas](https://github.com/krishagrawal07/leetcode-solns/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0680-valid-palindrome-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/krishagrawal07/leetcode-solns/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | [0324-wiggle-sort-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishagrawal07/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |

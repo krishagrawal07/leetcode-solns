@@ -71,6 +71,7 @@
 | [0986-interval-list-intersections](https://github.com/krishagrawal07/leetcode-solns/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishagrawal07/leetcode-solns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
 | ------- |
@@ -282,6 +283,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/krishagrawal07/leetcode-solns/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishagrawal07/leetcode-solns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Monotonic Stack
 |  |
 | ------- |

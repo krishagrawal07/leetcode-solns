@@ -54,6 +54,7 @@
 | [0457-circular-array-loop](https://github.com/krishagrawal07/leetcode-solns/tree/master/0457-circular-array-loop) |
 | [0493-reverse-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/krishagrawal07/leetcode-solns/tree/master/0498-diagonal-traverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [0073-set-matrix-zeroes](https://github.com/krishagrawal07/leetcode-solns/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/krishagrawal07/leetcode-solns/tree/master/0498-diagonal-traverse) |
 ## Recursion
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/krishagrawal07/leetcode-solns/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/krishagrawal07/leetcode-solns/tree/master/0498-diagonal-traverse) |
 ## Bit Manipulation
 |  |
 | ------- |

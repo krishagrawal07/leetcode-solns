@@ -73,6 +73,7 @@
 | [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/krishagrawal07/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishagrawal07/leetcode-solns/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0344-reverse-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/krishagrawal07/leetcode-solns/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishagrawal07/leetcode-solns/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishagrawal07/leetcode-solns/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |

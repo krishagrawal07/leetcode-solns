@@ -42,6 +42,8 @@
 | [0189-rotate-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/krishagrawal07/leetcode-solns/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/krishagrawal07/leetcode-solns/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0202-happy-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/krishagrawal07/leetcode-solns/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/krishagrawal07/leetcode-solns/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -104,7 +107,6 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishagrawal07/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0202-happy-number) |
-| [0234-palindrome-linked-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0088-merge-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishagrawal07/leetcode-solns/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -155,7 +158,6 @@
 | [0141-linked-list-cycle](https://github.com/krishagrawal07/leetcode-solns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
-| [0234-palindrome-linked-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -163,7 +165,6 @@
 | [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishagrawal07/leetcode-solns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
-| [0234-palindrome-linked-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,7 +195,6 @@
 | ------- |
 | [0050-powx-n](https://github.com/krishagrawal07/leetcode-solns/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
-| [0234-palindrome-linked-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,8 +212,10 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0229-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/krishagrawal07/leetcode-solns/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

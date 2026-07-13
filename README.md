@@ -81,6 +81,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishagrawal07/leetcode-solns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -299,6 +300,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishagrawal07/leetcode-solns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishagrawal07/leetcode-solns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1539-kth-missing-positive-number) |
 ## Monotonic Stack
 |  |
 | ------- |

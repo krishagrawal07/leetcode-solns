@@ -153,6 +153,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/krishagrawal07/leetcode-solns/tree/master/1021-remove-outermost-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/krishagrawal07/leetcode-solns/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krishagrawal07/leetcode-solns/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | [0509-fibonacci-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0523-continuous-subarray-sum) |
 | [1512-number-of-good-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | [0324-wiggle-sort-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0324-wiggle-sort-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |

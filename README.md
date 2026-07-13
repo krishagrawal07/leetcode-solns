@@ -63,6 +63,7 @@
 | [0704-binary-search](https://github.com/krishagrawal07/leetcode-solns/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/krishagrawal07/leetcode-solns/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [0074-search-a-2d-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/krishagrawal07/leetcode-solns/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0867-transpose-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | [0412-fizz-buzz](https://github.com/krishagrawal07/leetcode-solns/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/krishagrawal07/leetcode-solns/tree/master/0498-diagonal-traverse) |
 | [0844-backspace-string-compare](https://github.com/krishagrawal07/leetcode-solns/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -58,6 +58,7 @@
 | [0523-continuous-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0496-next-greater-element-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 | [0238-product-of-array-except-self](https://github.com/krishagrawal07/leetcode-solns/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0560-subarray-sum-equals-k) |
 ## Queue
 |  |
 | ------- |

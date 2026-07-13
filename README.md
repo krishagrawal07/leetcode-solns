@@ -22,6 +22,7 @@
 | [0049-group-anagrams](https://github.com/krishagrawal07/leetcode-solns/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/krishagrawal07/leetcode-solns/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0005-longest-palindromic-substring](https://github.com/krishagrawal07/leetcode-solns/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/krishagrawal07/leetcode-solns/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/krishagrawal07/leetcode-solns/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |

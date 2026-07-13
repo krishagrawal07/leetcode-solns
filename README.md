@@ -66,6 +66,7 @@
 | [0867-transpose-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/krishagrawal07/leetcode-solns/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0525-contiguous-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0567-permutation-in-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -330,6 +332,7 @@
 | [0525-contiguous-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/krishagrawal07/leetcode-solns/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Queue
 |  |
 | ------- |

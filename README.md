@@ -75,6 +75,7 @@
 | [1314-matrix-block-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/krishagrawal07/leetcode-solns/tree/master/1389-create-target-array-in-the-given-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -334,6 +335,7 @@
 | [0498-diagonal-traverse](https://github.com/krishagrawal07/leetcode-solns/tree/master/0498-diagonal-traverse) |
 | [0844-backspace-string-compare](https://github.com/krishagrawal07/leetcode-solns/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0867-transpose-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/krishagrawal07/leetcode-solns/tree/master/1389-create-target-array-in-the-given-order) |
 ## Bit Manipulation
 |  |
 | ------- |

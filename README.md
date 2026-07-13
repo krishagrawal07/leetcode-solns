@@ -206,6 +206,7 @@
 | [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/krishagrawal07/leetcode-solns/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/krishagrawal07/leetcode-solns/tree/master/0374-guess-number-higher-or-lower) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -279,4 +280,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krishagrawal07/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/krishagrawal07/leetcode-solns/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

@@ -87,6 +87,7 @@
 | [0523-continuous-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0412-fizz-buzz](https://github.com/krishagrawal07/leetcode-solns/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishagrawal07/leetcode-solns/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0239-sliding-window-maximum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishagrawal07/leetcode-solns/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +147,7 @@
 | [0287-find-the-duplicate-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/krishagrawal07/leetcode-solns/tree/master/0457-circular-array-loop) |
+| [0567-permutation-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |

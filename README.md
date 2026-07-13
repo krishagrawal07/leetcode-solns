@@ -92,6 +92,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krishagrawal07/leetcode-solns/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/krishagrawal07/leetcode-solns/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -371,6 +372,7 @@
 | [0867-transpose-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/krishagrawal07/leetcode-solns/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/krishagrawal07/leetcode-solns/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |

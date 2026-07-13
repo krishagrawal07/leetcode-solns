@@ -27,6 +27,7 @@
 | [0057-insert-interval](https://github.com/krishagrawal07/leetcode-solns/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/krishagrawal07/leetcode-solns/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/krishagrawal07/leetcode-solns/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0027-remove-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/krishagrawal07/leetcode-solns/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/krishagrawal07/leetcode-solns/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0018-4sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/krishagrawal07/leetcode-solns/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/krishagrawal07/leetcode-solns/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/krishagrawal07/leetcode-solns/tree/master/0075-sort-colors) |
 ## Linked List
 |  |
 | ------- |

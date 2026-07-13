@@ -93,6 +93,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/krishagrawal07/leetcode-solns/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/krishagrawal07/leetcode-solns/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/krishagrawal07/leetcode-solns/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krishagrawal07/leetcode-solns/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/1903-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/krishagrawal07/leetcode-solns/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
 | ------- |

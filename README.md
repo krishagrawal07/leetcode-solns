@@ -88,6 +88,7 @@
 | [1732-find-the-highest-altitude](https://github.com/krishagrawal07/leetcode-solns/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishagrawal07/leetcode-solns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1773-count-items-matching-a-rule](https://github.com/krishagrawal07/leetcode-solns/tree/master/1773-count-items-matching-a-rule) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [0796-rotate-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/krishagrawal07/leetcode-solns/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/krishagrawal07/leetcode-solns/tree/master/1021-remove-outermost-parentheses) |
+| [1773-count-items-matching-a-rule](https://github.com/krishagrawal07/leetcode-solns/tree/master/1773-count-items-matching-a-rule) |
 ## Sliding Window
 |  |
 | ------- |

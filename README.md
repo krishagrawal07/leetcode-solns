@@ -17,6 +17,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishagrawal07/leetcode-solns/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/krishagrawal07/leetcode-solns/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,10 +53,12 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/krishagrawal07/leetcode-solns/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishagrawal07/leetcode-solns/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -84,10 +87,15 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishagrawal07/leetcode-solns/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishagrawal07/leetcode-solns/tree/master/0035-search-insert-position) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

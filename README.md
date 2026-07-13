@@ -97,6 +97,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishagrawal07/leetcode-solns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/krishagrawal07/leetcode-solns/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2643-row-with-maximum-ones](https://github.com/krishagrawal07/leetcode-solns/tree/master/2643-row-with-maximum-ones) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishagrawal07/leetcode-solns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishagrawal07/leetcode-solns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/krishagrawal07/leetcode-solns/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishagrawal07/leetcode-solns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/krishagrawal07/leetcode-solns/tree/master/1552-magnetic-force-between-two-balls) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishagrawal07/leetcode-solns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -336,6 +339,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/krishagrawal07/leetcode-solns/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krishagrawal07/leetcode-solns/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1901-find-a-peak-element-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishagrawal07/leetcode-solns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |

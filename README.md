@@ -85,6 +85,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/krishagrawal07/leetcode-solns/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/krishagrawal07/leetcode-solns/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/krishagrawal07/leetcode-solns/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -380,6 +381,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/krishagrawal07/leetcode-solns/tree/master/1732-find-the-highest-altitude) |
 ## Queue
 |  |
 | ------- |

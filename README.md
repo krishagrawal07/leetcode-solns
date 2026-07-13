@@ -60,6 +60,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0704-binary-search](https://github.com/krishagrawal07/leetcode-solns/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,6 +251,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/krishagrawal07/leetcode-solns/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/krishagrawal07/leetcode-solns/tree/master/0704-binary-search) |
 ## Monotonic Stack
 |  |
 | ------- |

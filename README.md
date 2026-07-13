@@ -28,6 +28,7 @@
 | [0073-set-matrix-zeroes](https://github.com/krishagrawal07/leetcode-solns/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/krishagrawal07/leetcode-solns/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0035-search-insert-position](https://github.com/krishagrawal07/leetcode-solns/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/krishagrawal07/leetcode-solns/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

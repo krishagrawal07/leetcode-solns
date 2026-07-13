@@ -20,6 +20,7 @@
 | [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/krishagrawal07/leetcode-solns/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/krishagrawal07/leetcode-solns/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishagrawal07/leetcode-solns/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/krishagrawal07/leetcode-solns/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

@@ -89,7 +89,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishagrawal07/leetcode-solns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/krishagrawal07/leetcode-solns/tree/master/1773-count-items-matching-a-rule) |
-| [1838-frequency-of-the-most-frequent-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/krishagrawal07/leetcode-solns/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,7 +165,6 @@
 | [0567-permutation-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1004-max-consecutive-ones-iii) |
-| [1838-frequency-of-the-most-frequent-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,7 +241,6 @@
 | [0324-wiggle-sort-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0324-wiggle-sort-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0680-valid-palindrome-ii) |
-| [1838-frequency-of-the-most-frequent-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
 | ------- |
@@ -268,7 +266,6 @@
 | [0977-squares-of-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/krishagrawal07/leetcode-solns/tree/master/1552-magnetic-force-between-two-balls) |
-| [1838-frequency-of-the-most-frequent-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
 | ------- |
@@ -318,7 +315,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishagrawal07/leetcode-solns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/krishagrawal07/leetcode-solns/tree/master/1552-magnetic-force-between-two-balls) |
-| [1838-frequency-of-the-most-frequent-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/krishagrawal07/leetcode-solns/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -394,7 +391,6 @@
 | [1314-matrix-block-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/krishagrawal07/leetcode-solns/tree/master/1732-find-the-highest-altitude) |
-| [1838-frequency-of-the-most-frequent-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Queue
 |  |
 | ------- |

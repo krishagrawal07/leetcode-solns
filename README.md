@@ -83,6 +83,7 @@
 | [0088-merge-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/krishagrawal07/leetcode-solns/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/krishagrawal07/leetcode-solns/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,12 +128,14 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/krishagrawal07/leetcode-solns/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishagrawal07/leetcode-solns/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishagrawal07/leetcode-solns/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/krishagrawal07/leetcode-solns/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |

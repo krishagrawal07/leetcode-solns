@@ -72,6 +72,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishagrawal07/leetcode-solns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1314-matrix-block-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1314-matrix-block-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -302,6 +303,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/krishagrawal07/leetcode-solns/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1314-matrix-block-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -350,6 +352,7 @@
 | [0724-find-pivot-index](https://github.com/krishagrawal07/leetcode-solns/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1314-matrix-block-sum) |
 ## Queue
 |  |
 | ------- |

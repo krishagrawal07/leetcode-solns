@@ -57,6 +57,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishagrawal07/leetcode-solns/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/krishagrawal07/leetcode-solns/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/krishagrawal07/leetcode-solns/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/krishagrawal07/leetcode-solns/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/krishagrawal07/leetcode-solns/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/krishagrawal07/leetcode-solns/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |

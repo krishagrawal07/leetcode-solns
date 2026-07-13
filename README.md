@@ -127,6 +127,7 @@
 | [0680-valid-palindrome-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/krishagrawal07/leetcode-solns/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/krishagrawal07/leetcode-solns/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/krishagrawal07/leetcode-solns/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/krishagrawal07/leetcode-solns/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/krishagrawal07/leetcode-solns/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
 |  |
 | ------- |

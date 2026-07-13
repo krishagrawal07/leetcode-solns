@@ -96,6 +96,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/krishagrawal07/leetcode-solns/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishagrawal07/leetcode-solns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/krishagrawal07/leetcode-solns/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2643-row-with-maximum-ones](https://github.com/krishagrawal07/leetcode-solns/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -358,6 +359,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/krishagrawal07/leetcode-solns/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1901-find-a-peak-element-ii) |
+| [2643-row-with-maximum-ones](https://github.com/krishagrawal07/leetcode-solns/tree/master/2643-row-with-maximum-ones) |
 ## Recursion
 |  |
 | ------- |

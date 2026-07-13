@@ -55,6 +55,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/krishagrawal07/leetcode-solns/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0076-minimum-window-substring](https://github.com/krishagrawal07/leetcode-solns/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/krishagrawal07/leetcode-solns/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/krishagrawal07/leetcode-solns/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |

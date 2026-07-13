@@ -90,6 +90,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishagrawal07/leetcode-solns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/krishagrawal07/leetcode-solns/tree/master/1773-count-items-matching-a-rule) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krishagrawal07/leetcode-solns/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1901-find-a-peak-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 | [1539-kth-missing-positive-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/krishagrawal07/leetcode-solns/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krishagrawal07/leetcode-solns/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1901-find-a-peak-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1901-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/krishagrawal07/leetcode-solns/tree/master/1672-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1901-find-a-peak-element-ii) |
 ## Recursion
 |  |
 | ------- |

@@ -95,6 +95,7 @@
 | [1929-concatenation-of-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/krishagrawal07/leetcode-solns/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishagrawal07/leetcode-solns/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/krishagrawal07/leetcode-solns/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0567-permutation-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1004-max-consecutive-ones-iii) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/krishagrawal07/leetcode-solns/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Two Pointers
 |  |
 | ------- |
@@ -414,6 +416,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0918-maximum-sum-circular-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/krishagrawal07/leetcode-solns/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -424,6 +427,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0918-maximum-sum-circular-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/krishagrawal07/leetcode-solns/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Brainteaser
 |  |
 | ------- |

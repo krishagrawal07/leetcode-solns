@@ -38,6 +38,7 @@
 | [0041-first-missing-positive](https://github.com/krishagrawal07/leetcode-solns/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/krishagrawal07/leetcode-solns/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/krishagrawal07/leetcode-solns/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/krishagrawal07/leetcode-solns/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
 | ------- |
@@ -49,11 +50,13 @@
 | [0020-valid-parentheses](https://github.com/krishagrawal07/leetcode-solns/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishagrawal07/leetcode-solns/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/krishagrawal07/leetcode-solns/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/krishagrawal07/leetcode-solns/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishagrawal07/leetcode-solns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishagrawal07/leetcode-solns/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/krishagrawal07/leetcode-solns/tree/master/0076-minimum-window-substring) |
 ## Two Pointers
 |  |
 | ------- |

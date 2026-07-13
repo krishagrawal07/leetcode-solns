@@ -78,6 +78,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/krishagrawal07/leetcode-solns/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/krishagrawal07/leetcode-solns/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -363,6 +364,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1314-matrix-block-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
 | ------- |

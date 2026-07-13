@@ -48,6 +48,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krishagrawal07/leetcode-solns/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0189-rotate-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/krishagrawal07/leetcode-solns/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 | ------- |
 | [0136-single-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |

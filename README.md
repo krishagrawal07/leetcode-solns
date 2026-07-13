@@ -78,6 +78,7 @@
 | [0013-roman-to-integer](https://github.com/krishagrawal07/leetcode-solns/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/krishagrawal07/leetcode-solns/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/krishagrawal07/leetcode-solns/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/krishagrawal07/leetcode-solns/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishagrawal07/leetcode-solns/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/krishagrawal07/leetcode-solns/tree/master/0069-sqrtx) |
 ## Monotonic Stack
 |  |
 | ------- |

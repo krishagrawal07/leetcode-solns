@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/krishagrawal07/leetcode-solns/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishagrawal07/leetcode-solns/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->

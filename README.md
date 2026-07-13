@@ -162,6 +162,7 @@
 | [0647-palindromic-substrings](https://github.com/krishagrawal07/leetcode-solns/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/krishagrawal07/leetcode-solns/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | [0141-linked-list-cycle](https://github.com/krishagrawal07/leetcode-solns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
+| [0876-middle-of-the-linked-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |

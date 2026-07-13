@@ -57,6 +57,7 @@
 | [0498-diagonal-traverse](https://github.com/krishagrawal07/leetcode-solns/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 | [0367-valid-perfect-square](https://github.com/krishagrawal07/leetcode-solns/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/krishagrawal07/leetcode-solns/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0540-single-element-in-a-sorted-array) |
 ## Monotonic Stack
 |  |
 | ------- |

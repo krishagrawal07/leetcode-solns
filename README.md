@@ -87,6 +87,7 @@
 | [1672-richest-customer-wealth](https://github.com/krishagrawal07/leetcode-solns/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/krishagrawal07/leetcode-solns/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishagrawal07/leetcode-solns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |

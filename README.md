@@ -74,6 +74,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishagrawal07/leetcode-solns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1314-matrix-block-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0567-permutation-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0347-top-k-frequent-elements](https://github.com/krishagrawal07/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -424,4 +427,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/krishagrawal07/leetcode-solns/tree/master/0986-interval-list-intersections) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

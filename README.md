@@ -53,6 +53,7 @@
 | [0347-top-k-frequent-elements](https://github.com/krishagrawal07/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
 | [0457-circular-array-loop](https://github.com/krishagrawal07/leetcode-solns/tree/master/0457-circular-array-loop) |
 | [0493-reverse-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/krishagrawal07/leetcode-solns/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/krishagrawal07/leetcode-solns/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishagrawal07/leetcode-solns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishagrawal07/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishagrawal07/leetcode-solns/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |

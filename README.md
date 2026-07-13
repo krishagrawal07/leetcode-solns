@@ -46,6 +46,7 @@
 | [0238-product-of-array-except-self](https://github.com/krishagrawal07/leetcode-solns/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0217-contains-duplicate](https://github.com/krishagrawal07/leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/krishagrawal07/leetcode-solns/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0069-sqrtx](https://github.com/krishagrawal07/leetcode-solns/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +160,7 @@
 | [0217-contains-duplicate](https://github.com/krishagrawal07/leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/krishagrawal07/leetcode-solns/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -185,6 +189,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishagrawal07/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -217,6 +222,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |

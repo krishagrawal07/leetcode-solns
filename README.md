@@ -69,6 +69,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/krishagrawal07/leetcode-solns/tree/master/0986-interval-list-intersections) |
+| [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishagrawal07/leetcode-solns/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/krishagrawal07/leetcode-solns/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0567-permutation-in-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -328,6 +331,7 @@
 | [0169-majority-element](https://github.com/krishagrawal07/leetcode-solns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishagrawal07/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -241,6 +241,7 @@
 | [0496-next-greater-element-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/krishagrawal07/leetcode-solns/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/krishagrawal07/leetcode-solns/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/krishagrawal07/leetcode-solns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0901-online-stock-span](https://github.com/krishagrawal07/leetcode-solns/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -379,4 +381,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/0796-rotate-string) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/krishagrawal07/leetcode-solns/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/krishagrawal07/leetcode-solns/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

@@ -34,6 +34,7 @@
 | [0118-pascals-triangle](https://github.com/krishagrawal07/leetcode-solns/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishagrawal07/leetcode-solns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/krishagrawal07/leetcode-solns/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/krishagrawal07/leetcode-solns/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/krishagrawal07/leetcode-solns/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/krishagrawal07/leetcode-solns/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/krishagrawal07/leetcode-solns/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/0054-spiral-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/krishagrawal07/leetcode-solns/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

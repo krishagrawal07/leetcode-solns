@@ -293,6 +293,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/krishagrawal07/leetcode-solns/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/krishagrawal07/leetcode-solns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishagrawal07/leetcode-solns/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
@@ -371,6 +372,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/krishagrawal07/leetcode-solns/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/krishagrawal07/leetcode-solns/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/krishagrawal07/leetcode-solns/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0509-fibonacci-number) |

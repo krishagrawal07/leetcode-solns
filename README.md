@@ -100,6 +100,7 @@
 | [2643-row-with-maximum-ones](https://github.com/krishagrawal07/leetcode-solns/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishagrawal07/leetcode-solns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/krishagrawal07/leetcode-solns/tree/master/2965-find-missing-and-repeated-values) |
+| [3875-construct-uniform-parity-array-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 | [1512-number-of-good-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/krishagrawal07/leetcode-solns/tree/master/2965-find-missing-and-repeated-values) |
+| [3875-construct-uniform-parity-array-i](https://github.com/krishagrawal07/leetcode-solns/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |

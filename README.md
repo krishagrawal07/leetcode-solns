@@ -72,6 +72,7 @@
 | [0986-interval-list-intersections](https://github.com/krishagrawal07/leetcode-solns/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/krishagrawal07/leetcode-solns/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishagrawal07/leetcode-solns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krishagrawal07/leetcode-solns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1314-matrix-block-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1314-matrix-block-sum) |
@@ -291,6 +292,7 @@
 | [0347-top-k-frequent-elements](https://github.com/krishagrawal07/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krishagrawal07/leetcode-solns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishagrawal07/leetcode-solns/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/krishagrawal07/leetcode-solns/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/krishagrawal07/leetcode-solns/tree/master/1552-magnetic-force-between-two-balls) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishagrawal07/leetcode-solns/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -506,5 +508,10 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/krishagrawal07/leetcode-solns/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/krishagrawal07/leetcode-solns/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

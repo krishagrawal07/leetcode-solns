@@ -73,6 +73,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/krishagrawal07/leetcode-solns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishagrawal07/leetcode-solns/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishagrawal07/leetcode-solns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/krishagrawal07/leetcode-solns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1314-matrix-block-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krishagrawal07/leetcode-solns/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -251,6 +252,7 @@
 | [0412-fizz-buzz](https://github.com/krishagrawal07/leetcode-solns/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/krishagrawal07/leetcode-solns/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/krishagrawal07/leetcode-solns/tree/master/0523-continuous-subarray-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/krishagrawal07/leetcode-solns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/krishagrawal07/leetcode-solns/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/krishagrawal07/leetcode-solns/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/krishagrawal07/leetcode-solns/tree/master/2965-find-missing-and-repeated-values) |
